@@ -28,7 +28,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["駆け出し。", "Web エンジニア。"],
+		strings: ["Web Developer", "フロントエンドエンジニア"],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
